@@ -1,0 +1,8 @@
+package exercises;
+
+public class Bill {
+	private String id;
+	private String content;
+	
+	
+}

@@ -1,0 +1,25 @@
+package template;
+
+public class SingletonWawita3 {
+
+	private static SingletonWawita3 instance = null;
+
+	// 2) constructor private
+	private SingletonWawita3() {
+		System.out.println("Creacion deberia mostrarse 1 sola vez  SINGLETON Wawita3");
+	}
+
+	private synchronized static void multiThreadManage() {
+		if (instance == null) {
+			instance = new SingletonWawita3();
+		}
+	}
+
+	// global access
+	public static SingletonWawita3 getInstance() {
+		if (instance == null) {
+			multiThreadManage();
+		}
+		return instance;
+	}
+}

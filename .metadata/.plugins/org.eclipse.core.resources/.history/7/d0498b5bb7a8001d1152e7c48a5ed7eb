@@ -1,0 +1,18 @@
+package exercises;
+
+import java.io.File;
+
+public class Logger {
+	private File db;
+	private static Logger logger = new Logger();
+
+	private Logger() {
+		this.db = new File("dbLogger.txt");
+		System.out.println(db.createNewFile());
+	}
+
+	public static Logger getLogger() {
+		return logger;
+	}
+
+}

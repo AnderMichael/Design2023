@@ -1,0 +1,9 @@
+package exercises;
+
+public class Logger {
+
+	private Logger() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

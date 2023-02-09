@@ -1,0 +1,23 @@
+package exercises;
+
+import java.io.File;
+import java.io.FileWriter;
+
+public class Logger {
+	private FileWriter db;
+	private static Logger logger = new Logger();
+
+	private Logger() {
+		try {
+			this.db = new FileWriter("dbLogger.txt");
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+
+	}
+
+	public static Logger getLogger() {
+		return logger;
+	}
+
+}

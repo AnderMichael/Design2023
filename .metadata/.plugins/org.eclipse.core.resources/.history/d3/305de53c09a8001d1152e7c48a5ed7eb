@@ -1,0 +1,12 @@
+package exercises;
+
+import java.io.File;
+
+public class Logger {
+	private File db;
+
+	private Logger() {
+		this.db = new File("dbLogger.txt")
+	}
+
+}

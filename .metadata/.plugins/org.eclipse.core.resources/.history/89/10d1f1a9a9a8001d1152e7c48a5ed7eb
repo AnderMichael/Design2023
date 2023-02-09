@@ -1,0 +1,16 @@
+package exercises;
+
+public class Promotion {
+	private String date;
+	private double realPrice;
+	private double discountPrice;
+	
+	public Promotion(String dat, double number) {
+		this.date = date;
+		this.realPrice = number;
+	}
+
+	public static void currentPrice() {
+		
+	}
+}

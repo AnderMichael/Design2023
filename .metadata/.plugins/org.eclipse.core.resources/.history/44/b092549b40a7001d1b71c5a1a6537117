@@ -1,0 +1,11 @@
+package template;
+
+public class LaunchSingletons {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package exercises;
+
+public class Promotion {
+	private String date;
+	private int number;
+	public Promotion(String date,int number) {
+		
+	}
+
+	
+}

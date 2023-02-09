@@ -1,0 +1,19 @@
+package template;
+
+public class LaunchSingletons {
+
+	public static void main(String[] args) {
+		SingletonWawita singletonWawita1 = SingletonWawita.getSingletonWawtita();
+		SingletonWawita singletonWawita2 = SingletonWawita.getSingletonWawtita();
+		SingletonWawita singletonWawita3 = SingletonWawita.getSingletonWawtita();
+
+		// Todos los singletons superiores son solo uno
+		
+		System.out.println(singletonWawita1.hashCode());
+		System.out.println(singletonWawita2.hashCode());
+		System.out.println(singletonWawita3.hashCode());
+	}
+	
+	
+
+}

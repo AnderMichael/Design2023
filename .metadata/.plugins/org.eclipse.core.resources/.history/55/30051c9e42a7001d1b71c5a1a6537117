@@ -1,0 +1,9 @@
+package template;
+
+public class SingletonWawita2 {
+
+	public SingletonWawita2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
