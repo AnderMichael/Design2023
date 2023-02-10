@@ -3,4 +3,12 @@
     <fullyQualifiedTypeName name="template.Singleton1"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="template.SingletonWawita"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="exercises.Logger"/>
+    <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.synth.resources.synth"/>
+    <fullyQualifiedTypeName name="exercises.Product"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.nio.file.StandardOpenOption"/>
 </qualifiedTypeNameHistroy>
