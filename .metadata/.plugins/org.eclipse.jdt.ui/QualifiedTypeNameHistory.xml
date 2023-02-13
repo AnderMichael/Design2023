@@ -11,4 +11,15 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.nio.file.StandardOpenOption"/>
+    <fullyQualifiedTypeName name="template.SingletonWawita1"/>
+    <fullyQualifiedTypeName name="example.Pablito"/>
+    <fullyQualifiedTypeName name="example.MaquinaExpendedora"/>
+    <fullyQualifiedTypeName name="example.Mickey"/>
+    <fullyQualifiedTypeName name="exercise.IPasaje"/>
+    <fullyQualifiedTypeName name="exercise.PasajeStandard"/>
+    <fullyQualifiedTypeName name="exercise.PasajeSolidario"/>
+    <fullyQualifiedTypeName name="exercise.PasajeSolidarioCreator"/>
+    <fullyQualifiedTypeName name="exercise.PasajeInfantes"/>
+    <fullyQualifiedTypeName name="exercise.PasajeInfantesCreator"/>
+    <fullyQualifiedTypeName name="exercise.Pasajero"/>
 </qualifiedTypeNameHistroy>

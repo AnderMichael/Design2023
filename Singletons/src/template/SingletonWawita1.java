@@ -3,11 +3,11 @@ package template;
 public class SingletonWawita1 {
 
 	// 1st step ---> Same type attribute
-	private static SingletonWawita1 singletonWawita = null;
+	private static SingletonWawita1 singletonWawita;
 
 	// 2nd Private constructor
 	private SingletonWawita1() {
-		System.out.println("Un singleton solo debería crearse una sola vez");
+		System.out.println("Un singleton solo debería crearse una sola vez: SingletonWawita1");
 	}
 
 	// 3rd Global access

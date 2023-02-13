@@ -2,7 +2,7 @@ package template;
 
 public class SingletonWawita3 {
 
-	private static SingletonWawita3 instance = null;
+	private static SingletonWawita3 instance;
 
 	// 2) constructor private
 	private SingletonWawita3() {
