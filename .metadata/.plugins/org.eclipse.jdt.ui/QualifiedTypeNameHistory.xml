@@ -22,4 +22,8 @@
     <fullyQualifiedTypeName name="exercise.PasajeInfantes"/>
     <fullyQualifiedTypeName name="exercise.PasajeInfantesCreator"/>
     <fullyQualifiedTypeName name="exercise.Pasajero"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="template.ConcreteProduct1"/>
+    <fullyQualifiedTypeName name="template.IProduct"/>
+    <fullyQualifiedTypeName name="template.AbstractFactory"/>
 </qualifiedTypeNameHistroy>
