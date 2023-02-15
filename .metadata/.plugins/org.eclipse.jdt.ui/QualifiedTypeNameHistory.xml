@@ -15,15 +15,20 @@
     <fullyQualifiedTypeName name="example.Pablito"/>
     <fullyQualifiedTypeName name="example.MaquinaExpendedora"/>
     <fullyQualifiedTypeName name="example.Mickey"/>
-    <fullyQualifiedTypeName name="exercise.IPasaje"/>
-    <fullyQualifiedTypeName name="exercise.PasajeStandard"/>
-    <fullyQualifiedTypeName name="exercise.PasajeSolidario"/>
     <fullyQualifiedTypeName name="exercise.PasajeSolidarioCreator"/>
-    <fullyQualifiedTypeName name="exercise.PasajeInfantes"/>
     <fullyQualifiedTypeName name="exercise.PasajeInfantesCreator"/>
-    <fullyQualifiedTypeName name="exercise.Pasajero"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="template.ConcreteProduct1"/>
     <fullyQualifiedTypeName name="template.IProduct"/>
     <fullyQualifiedTypeName name="template.AbstractFactory"/>
+    <fullyQualifiedTypeName name="classExercise.BancoCentralInternacional"/>
+    <fullyQualifiedTypeName name="classExercise.Banco"/>
+    <fullyQualifiedTypeName name="classExercise.Librecambista"/>
+    <fullyQualifiedTypeName name="classExercise.CasaDeCambio"/>
+    <fullyQualifiedTypeName name="exercise.IPasaje"/>
+    <fullyQualifiedTypeName name="exercise.Pasajero"/>
+    <fullyQualifiedTypeName name="exercise.PasajeInfantes"/>
+    <fullyQualifiedTypeName name="exercise.PasajeSolidario"/>
+    <fullyQualifiedTypeName name="exercise.PasajeStandard"/>
+    <fullyQualifiedTypeName name="exercise.PasajesGenerator"/>
 </qualifiedTypeNameHistroy>

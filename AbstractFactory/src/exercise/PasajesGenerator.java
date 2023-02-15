@@ -1,7 +1,5 @@
 package exercise;
 
-import java.util.HashMap;
-
 public class PasajesGenerator {
 
 	// Sobre el Avion
