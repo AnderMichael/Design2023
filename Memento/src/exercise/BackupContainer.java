@@ -1,17 +1,17 @@
 package exercise;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class BackupContainer {
-	private List<Backup> backups = new ArrayList<>();
+	private Map<String, Backup> backups = new HashMap<>();
 
 	public void addBackup(Backup backup) {
-		backups.add(backup);
+		backups.put(backup.getAlias(), backup);
 	}
 
-	public Backup getBackup(int backupNumber) {
-		Backup backup = backups.get(backupNumber - 1);
+	public Backup getBackup(String alias) {
+		Backup backup = backups.get(alias);
 		return backup;
 	}
 }

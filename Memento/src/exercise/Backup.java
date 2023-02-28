@@ -15,4 +15,8 @@ public class Backup {
 		return bdPersonas;
 	}
 
+	public String getAlias() {
+		return alias;
+	}
+
 }

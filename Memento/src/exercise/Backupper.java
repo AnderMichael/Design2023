@@ -12,7 +12,7 @@ public class Backupper {
 		return new Backup(alias, lastBDPersonas);
 	}
 
-	public BDPersonas getBDPersonasVersion(Backup backup) {
+	public BDPersonas restore(Backup backup) {
 		this.lastBDPersonas = backup.getBDPersonasBackup();
 		return this.lastBDPersonas;
 	}

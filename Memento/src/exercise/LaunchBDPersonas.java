@@ -109,43 +109,46 @@ public class LaunchBDPersonas {
 				new Persona("Joshuah De la Barre", "92.124.194.121/5", 1992));
 
 		int i = 0;
+		
+		// Primer Backup
 		for (; i < 5; i++) {
 			bdPersonas.addPersona(personas.get(i));
 		}
 
 		backupper.setLastBDPersonas(bdPersonas);
-		backupContainer.addBackup(backupper.createBackup("BackupFebrero"));
-
+		backupContainer.addBackup(backupper.createBackup("BackupEnero"));
+		// Segundo Backup
 		for (; i < 10; i++) {
 			bdPersonas.addPersona(personas.get(i));
 		}
 
 		backupper.setLastBDPersonas(bdPersonas);
-		backupContainer.addBackup(backupper.createBackup("BackupMarzo"));
-
+		backupContainer.addBackup(backupper.createBackup("BackupFebrero"));
+		// Tercer Backup
 		for (; i < 20; i++) {
 			bdPersonas.addPersona(personas.get(i));
 		}
 
 		backupper.setLastBDPersonas(bdPersonas);
-		backupContainer.addBackup(backupper.createBackup("BackupAbril"));
-
+		backupContainer.addBackup(backupper.createBackup("BackupMarzo"));
+		// Cuarto Backup
 		for (; i < 25; i++) {
 			bdPersonas.addPersona(personas.get(i));
 		}
 
 		backupper.setLastBDPersonas(bdPersonas);
-		backupContainer.addBackup(backupper.createBackup("BackupJunio"));
-
+		backupContainer.addBackup(backupper.createBackup("BackupAbril"));
+		// Quinto Backup
 		for (; i < 50; i++) {
 			bdPersonas.addPersona(personas.get(i));
 		}
 
 		backupper.setLastBDPersonas(bdPersonas);
-		backupContainer.addBackup(backupper.createBackup("BackupJulio"));
+		backupContainer.addBackup(backupper.createBackup("BackupMayo"));
 
-		bdPersonas = backupper.getBDPersonasVersion(backupContainer.getBackup(2));
-		
+		// Restauración segundo backup
+		bdPersonas = backupper.restore(backupContainer.getBackup("BackupFebrero"));
+
 		bdPersonas.showInfo();
 	}
 }
