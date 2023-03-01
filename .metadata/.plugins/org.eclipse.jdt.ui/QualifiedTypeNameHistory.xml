@@ -49,15 +49,15 @@
     <fullyQualifiedTypeName name="exercise.SM"/>
     <fullyQualifiedTypeName name="exercise.TeamMember"/>
     <fullyQualifiedTypeName name="exercise.Project"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="exercise.Memento"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="exercise.Backup"/>
     <fullyQualifiedTypeName name="exercise.BackupContainer"/>
     <fullyQualifiedTypeName name="exercise.Backupper"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="exercise.Persona"/>
     <fullyQualifiedTypeName name="exercise.BDPersonas"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="exercise.Backup"/>
 </qualifiedTypeNameHistroy>
