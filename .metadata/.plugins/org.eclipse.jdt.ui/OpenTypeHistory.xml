@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Command/src&lt;template{ICommand.java[ICommand" modifiers="513" timestamp="1677710130917"/>
+    <typeInfo handle="=Command/src&lt;example{ITask.java[ITask" modifiers="513" timestamp="1677712045555"/>
+    <typeInfo handle="=Command/src&lt;example{Task.java[Task" modifiers="1025" timestamp="1677712110645"/>
+</typeInfoHistroy>
