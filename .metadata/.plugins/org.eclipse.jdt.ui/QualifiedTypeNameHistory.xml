@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ejercicio8.CajeroFinanciamento"/>
-    <fullyQualifiedTypeName name="ejercicio8.CajeroFinanciamientoCreator"/>
-    <fullyQualifiedTypeName name="ejercicio8.CajeroNegocios"/>
-    <fullyQualifiedTypeName name="ejercicio8.CajeroNegociosCreator"/>
-    <fullyQualifiedTypeName name="ejercicio8.CajeroViviendaCreator"/>
-    <fullyQualifiedTypeName name="ejercicio8.Cajero"/>
-    <fullyQualifiedTypeName name="ejercicio8.CuentaFondosBanco"/>
-    <fullyQualifiedTypeName name="com.sun.tools.classfile.StackMap_attribute.stack_map_frame"/>
     <fullyQualifiedTypeName name="ejercicio10.CabinaControl"/>
     <fullyQualifiedTypeName name="ejercicio10.Vehiculo"/>
     <fullyQualifiedTypeName name="template.IMediator"/>
@@ -51,8 +43,6 @@
     <fullyQualifiedTypeName name="template.ConcreteCommand2"/>
     <fullyQualifiedTypeName name="template.ConcreteCommand3"/>
     <fullyQualifiedTypeName name="template.Invoker"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="example.Task"/>
     <fullyQualifiedTypeName name="example.IDE"/>
     <fullyQualifiedTypeName name="example.BuildProjectTask"/>
@@ -60,4 +50,14 @@
     <fullyQualifiedTypeName name="example.CompileCodeTask"/>
     <fullyQualifiedTypeName name="example.RunUnitTestTask"/>
     <fullyQualifiedTypeName name="example.TaskManager"/>
+    <fullyQualifiedTypeName name="exercise.Command"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="exercise.AccionCorrer"/>
+    <fullyQualifiedTypeName name="exercise.Personaje"/>
+    <fullyQualifiedTypeName name="exercise.Accion"/>
+    <fullyQualifiedTypeName name="exercise.AccionRegeneracion"/>
+    <fullyQualifiedTypeName name="exercise.AccionAtacar"/>
+    <fullyQualifiedTypeName name="exercise.AccionContraataque"/>
+    <fullyQualifiedTypeName name="exercise.AccionManager"/>
 </qualifiedTypeNameHistroy>
