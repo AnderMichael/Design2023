@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ejercicio10.CabinaControl"/>
-    <fullyQualifiedTypeName name="ejercicio10.Vehiculo"/>
-    <fullyQualifiedTypeName name="template.IMediator"/>
-    <fullyQualifiedTypeName name="template.Colleague"/>
-    <fullyQualifiedTypeName name="template.ConcreteColleague"/>
-    <fullyQualifiedTypeName name="template.ConcreteMediator"/>
-    <fullyQualifiedTypeName name="template.ConcreteColleagueA"/>
-    <fullyQualifiedTypeName name="template.ConcreteColleagueB"/>
-    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
-    <fullyQualifiedTypeName name="template.ConcreteObject"/>
-    <fullyQualifiedTypeName name="exercise.QA"/>
-    <fullyQualifiedTypeName name="exercise.ICanalComunicacion"/>
-    <fullyQualifiedTypeName name="exercise.Skype"/>
-    <fullyQualifiedTypeName name="exercise.SM"/>
-    <fullyQualifiedTypeName name="exercise.TeamMember"/>
-    <fullyQualifiedTypeName name="exercise.Project"/>
-    <fullyQualifiedTypeName name="exercise.Memento"/>
-    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
-    <fullyQualifiedTypeName name="exercise.BackupContainer"/>
     <fullyQualifiedTypeName name="exercise.Backupper"/>
     <fullyQualifiedTypeName name="exercise.Persona"/>
     <fullyQualifiedTypeName name="exercise.BDPersonas"/>
@@ -51,8 +32,6 @@
     <fullyQualifiedTypeName name="example.RunUnitTestTask"/>
     <fullyQualifiedTypeName name="example.TaskManager"/>
     <fullyQualifiedTypeName name="exercise.Command"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="exercise.AccionCorrer"/>
     <fullyQualifiedTypeName name="exercise.Personaje"/>
     <fullyQualifiedTypeName name="exercise.Accion"/>
@@ -60,4 +39,25 @@
     <fullyQualifiedTypeName name="exercise.AccionAtacar"/>
     <fullyQualifiedTypeName name="exercise.AccionContraataque"/>
     <fullyQualifiedTypeName name="exercise.AccionManager"/>
+    <fullyQualifiedTypeName name="template.ISubject"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+    <fullyQualifiedTypeName name="template.IObserver"/>
+    <fullyQualifiedTypeName name="template.ConcreteSubject"/>
+    <fullyQualifiedTypeName name="template.ConcreteObserverA"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="exercise.CompaniaTelefonica"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="exercise.IUsuario"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="exercise.Usuario"/>
+    <fullyQualifiedTypeName name="exercise.COTEL"/>
+    <fullyQualifiedTypeName name="exercise.Notificacion"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="template.IState"/>
+    <fullyQualifiedTypeName name="template.Context"/>
+    <fullyQualifiedTypeName name="template.ConcreteState1"/>
+    <fullyQualifiedTypeName name="example.EstadoComputadora"/>
+    <fullyQualifiedTypeName name="example.Computadora"/>
+    <fullyQualifiedTypeName name="example.TarjetaVideo"/>
 </qualifiedTypeNameHistroy>
