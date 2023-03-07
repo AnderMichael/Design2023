@@ -15,7 +15,6 @@ public class ComputadoraReiniciando implements ComputadoraState {
 		computadora.getCpu().setCpuConsume(0);
 		computadora.getRam().setRamConsume(0);
 		System.out.println("Computadora reiniciada");
-
 	}
 
 }

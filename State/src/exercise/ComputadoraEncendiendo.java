@@ -24,7 +24,7 @@ public class ComputadoraEncendiendo implements ComputadoraState {
 			System.out.println(String.format("Abriendo el programa: %s", openProgram));
 			computadora.getOpenPrograms().add(openProgram);
 			try {
-				Thread.sleep(1500);
+				Thread.sleep(500);
 				currentCpuConsume += 5;
 				computadora.getCpu().setCpuConsume(currentCpuConsume);
 				currentRamConsume += 5;
