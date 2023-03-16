@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ejercicio4.WhatsApp"/>
-    <fullyQualifiedTypeName name="ejercicio3.SortCellphonesStrategy"/>
-    <fullyQualifiedTypeName name="ejercicio3.AFewCellphones"/>
-    <fullyQualifiedTypeName name="ejercicio3.ALotOfCellphones"/>
-    <fullyQualifiedTypeName name="java.util.TreeMap"/>
-    <fullyQualifiedTypeName name="ejercicio3.Cellphone"/>
-    <fullyQualifiedTypeName name="ejercicio3.CellphoneStore"/>
     <fullyQualifiedTypeName name="ejercicio7.ComponenteBanco"/>
     <fullyQualifiedTypeName name="ejercicio7.AsesorBanco"/>
     <fullyQualifiedTypeName name="ejercicio7.NotificadorBanco"/>
@@ -60,4 +53,11 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="template.RealSubject"/>
     <fullyQualifiedTypeName name="template.Proxy"/>
+    <fullyQualifiedTypeName name="exercise.AplicacionEmpresa1"/>
+    <fullyQualifiedTypeName name="exercise.AplicacionEmpresa2"/>
+    <fullyQualifiedTypeName name="exercise.AdapterAplicacionEmpresa1"/>
+    <fullyQualifiedTypeName name="exercise.CuentaBanco"/>
+    <fullyQualifiedTypeName name="exercise.TipoMoneda"/>
+    <fullyQualifiedTypeName name="exercise.TarjetaDebito"/>
+    <fullyQualifiedTypeName name="exercise.Bolivianos"/>
 </qualifiedTypeNameHistroy>

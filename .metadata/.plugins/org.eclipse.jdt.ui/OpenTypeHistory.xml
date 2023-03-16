@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=Proxy/src&lt;template{ISubject.java[ISubject" modifiers="513" timestamp="1678486656788"/>
+    <typeInfo handle="=Adapter/src&lt;exercise{AplicacionMovil.java[AplicacionMovil" modifiers="513" timestamp="1678707934700"/>
+    <typeInfo handle="=Adapter/src&lt;exercise{AplicacionWeb.java[AplicacionWeb" modifiers="513" timestamp="1678707956081"/>
+    <typeInfo handle="=Proxy/src&lt;exercise{TipoMoneda.java[TipoMoneda" modifiers="1" timestamp="1678713540586"/>
 </typeInfoHistroy>
