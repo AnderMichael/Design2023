@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=Proxy/src&lt;template{ISubject.java[ISubject" modifiers="513" timestamp="1678486656788"/>
-    <typeInfo handle="=Adapter/src&lt;exercise{AplicacionMovil.java[AplicacionMovil" modifiers="513" timestamp="1678707934700"/>
-    <typeInfo handle="=Adapter/src&lt;exercise{AplicacionWeb.java[AplicacionWeb" modifiers="513" timestamp="1678707956081"/>
-    <typeInfo handle="=Proxy/src&lt;exercise{TipoMoneda.java[TipoMoneda" modifiers="1" timestamp="1678713540586"/>
+    <typeInfo handle="=Bridge/src&lt;exercise.bridge{Arquitectura.java[Arquitectura" modifiers="1025" timestamp="1678968369377"/>
+    <typeInfo handle="=Bridge/src&lt;exercise.nobridge{Windows.java[Windows" modifiers="1" timestamp="1678970915440"/>
 </typeInfoHistroy>
