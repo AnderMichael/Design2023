@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ejercicio7.Prestamo"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.tools.SysPropsDumper"/>
-    <fullyQualifiedTypeName name="ejercicio7.EncargadoPrestamos"/>
-    <fullyQualifiedTypeName name="ejercicio7.Persona"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="template.IElement"/>
-    <fullyQualifiedTypeName name="template.IConcreteElement"/>
-    <fullyQualifiedTypeName name="template.IVisitor"/>
-    <fullyQualifiedTypeName name="template.ConcreteElementA"/>
-    <fullyQualifiedTypeName name="template.ConcreteElementB"/>
-    <fullyQualifiedTypeName name="template.ConcreteVisitor"/>
-    <fullyQualifiedTypeName name="example.Medico"/>
     <fullyQualifiedTypeName name="example.Animal"/>
     <fullyQualifiedTypeName name="example.Perro"/>
     <fullyQualifiedTypeName name="example.Gato"/>
@@ -36,14 +24,12 @@
     <fullyQualifiedTypeName name="ejercicio5.SuscriptorGitHub"/>
     <fullyQualifiedTypeName name="ejercicio5.Desarrollador"/>
     <fullyQualifiedTypeName name="ejercicio6.Discord"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ejercicio6.Desarrollador"/>
     <fullyQualifiedTypeName name="ejercicio6.ComunicationChannel"/>
     <fullyQualifiedTypeName name="ejercicio6.Usuario"/>
     <fullyQualifiedTypeName name="ejercicio6.ComunicationType"/>
     <fullyQualifiedTypeName name="ejercicio6.DirectCommunication"/>
     <fullyQualifiedTypeName name="ejercicio6.GlobalCommunication"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="template.RealSubject"/>
     <fullyQualifiedTypeName name="template.Proxy"/>
     <fullyQualifiedTypeName name="exercise.AplicacionEmpresa1"/>
@@ -60,4 +46,18 @@
     <fullyQualifiedTypeName name="exercise.nobridge.Windows7x86"/>
     <fullyQualifiedTypeName name="exercise.nobridge.Windows7x64"/>
     <fullyQualifiedTypeName name="exercise.nobridge.Windows7x128"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="exercise.Producto"/>
+    <fullyQualifiedTypeName name="exercise.Computadora"/>
+    <fullyQualifiedTypeName name="exercise.ConjuntoProductos"/>
+    <fullyQualifiedTypeName name="exercise.ContenedorComputadoras"/>
+    <fullyQualifiedTypeName name="exercise.Laboratorio"/>
+    <fullyQualifiedTypeName name="exercise.Automovil"/>
+    <fullyQualifiedTypeName name="exercise.Minibus"/>
+    <fullyQualifiedTypeName name="exercise.Taxi"/>
+    <fullyQualifiedTypeName name="exercise.Vagoneta"/>
+    <fullyQualifiedTypeName name="exercise.AutomovilGPS"/>
+    <fullyQualifiedTypeName name="exercise.AutomovilTanqueDeGas"/>
+    <fullyQualifiedTypeName name="exercise.AutomovilTurbo"/>
 </qualifiedTypeNameHistroy>
